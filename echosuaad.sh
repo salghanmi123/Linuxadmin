@@ -1,1 +1,2 @@
 echo "suaad"
+date
